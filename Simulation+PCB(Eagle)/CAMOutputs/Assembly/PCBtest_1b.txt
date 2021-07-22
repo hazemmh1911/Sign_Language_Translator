@@ -1,0 +1,12 @@
+Partlist exported from C:/Users/hazem/Music/Final Final Final/PCBtest_1b.sch at 7/11/2021 6:07 PM
+
+Qty Value                    Device                   Package                  Parts                                                      Description                                             MF MPN OC_FARNELL OC_NEWARK POPULARITY SPICEPREFIX
+1                            255SB                    255SB                    S2                                                         SLIDING SWITCH                                                                      11                    
+1                            MA07-1                   MA07-1                   SV1                                                        PIN HEADER                                                     unknown    unknown   4                     
+12                           R-US_0204/7              0204/7                   RB1, RB2, RF1, RF2, RF3, RF4, RF5, RS1, RS2, RS3, RS4, RS5 RESISTOR, American symbol                                                           48         R          
+1                            SW_DIP-6                 EDG-06                   SW1                                                        DIP SWITCH                                                                          0                     
+6   332-02                   332-02                   332-02                   BATTERY, FLEX1, FLEX2, FLEX3, FLEX4, FLEX5                 2 Pin - 2mm Dual Row                                                                7                     
+1   AMPLIFIER-PAM8403        AMPLIFIER-PAM8403        AMPLIFIER-PAM8403        U$2                                                        Stereo Class-D 3W Audio Amplifier based on PAM8403 chip                                                   
+1   ARDUINO-NANO-3.0         ARDUINO-NANO-3.0         ARDUINO-NANO-3.0         M1                                                         Arduino Nano 3.0 and compatible devices                                                                   
+1   GY-521MPU6050            GY-521MPU6050            GY-521                   U1                                                                                                                                                                   
+1   WIRELESS-BLUETOOTH-HC-05 WIRELESS-BLUETOOTH-HC-05 WIRELESS-BLUETOOTH-HC-05 U$1                                                        Bluetooth Transceiver Module based on HC-05 board                                                         
